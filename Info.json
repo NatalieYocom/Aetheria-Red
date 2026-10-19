@@ -1,0 +1,9 @@
+{
+    "author": ["NatalieYocom"],
+    "description": "A custom cog for use in the Aetheria Discord Server.",
+    "disabled": false,
+    "name": "Aetheria",
+    "short": "A custom tool for Aetheria",
+    "tags": ["utility"],
+    "requirements": []
+}
